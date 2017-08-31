@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Snowman
+comment0.text=\r\n\ Draws\ a\ snowman\r\n
+comment1.params=x1\ y1
+comment1.target=Snowman(int,\ int)
+comment2.params=
+comment2.target=void\ draw()
+numComments=3

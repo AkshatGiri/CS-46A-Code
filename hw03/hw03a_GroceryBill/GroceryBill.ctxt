@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GroceryBill
+comment0.text=\r\nmodels\ a\ grocery\ bill\ to\ which\ the\ cost\ of\ \r\nitems\ can\ be\ added\ and\ removed\r\n
+comment1.params=
+comment1.target=GroceryBill()
+comment2.params=amount
+comment2.target=void\ add(double)
+comment2.text=\r\n\ Adds\ the\ amount\ to\ the\ existing\ Subtotal.\r\n\ @param\ amount\ Amount\ to\ be\ added\ to\ the\ Subtotal\r\n
+comment3.params=amount
+comment3.target=void\ remove(double)
+comment3.text=\r\n\ Subtracts\ the\ amount\ from\ the\ Subtotal.\r\n\ @param\ amount\ Amount\ to\ be\ removed\ from\ the\ Subtotal\r\n
+comment4.params=
+comment4.target=double\ getSubtotal()
+comment4.text=\r\n\ Returns\ the\ Subtotal\r\n\ @return\ subTotal\ Total\ of\ the\ Bill\ so\ far\r\n
+numComments=5

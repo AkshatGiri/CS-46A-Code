@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Hal9000
+comment0.text=\r\n\ Hal9000\ simulate\ an\ AI\ that\ interacts\ with\ the\ crew\r\n\ of\ a\ space\ ship.\r\n\ \r\n
+comment1.params=personName
+comment1.target=Hal9000(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ crew\ member's\ name.\r\n\ @return\ Name\ of\ the\ crew\ member\ as\ a\ String.\ \r\n
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Updating\ the\ name\ of\ the\ an\ existing\ Crew\ Member.\r\n\ @param\ newName\ New\ name\ of\ the\ crew\ member.\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ greetCrewMember()
+comment4.text=\r\n\ Greet\ the\ Crew\ Member.\r\n\ @return\ a\ greeting.\ "Welcome"\ +\ crew\ member.\r\n
+comment5.params=whatToDo
+comment5.target=java.lang.String\ doCommand(java.lang.String)
+comment5.text=\r\n\ \r\n\ @param\ whatToDo\ A\ command\ to\ Hal.\ \ \r\n\ @return\ an\ apology\ for\ not\ doing\ what\ asked\ to\ do.\ \r\n
+numComments=6
