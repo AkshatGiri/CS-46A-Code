@@ -3,7 +3,7 @@
  * of a space ship.
  * 
  */
-public class Hal9000Draft
+public class Hal9000
 {
     private String name;
     
@@ -27,7 +27,7 @@ public class Hal9000Draft
      */
     public void setName(String newName)
     {
-
+        name = newName;
     }
     
     /**
