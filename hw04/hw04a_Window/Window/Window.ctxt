@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Window
+comment0.text=\r\n\ models\ a\ rectangular\ window\ with\ a\ semi-circle\ on\ top\r\n
+comment1.params=theWidth\ theHeight
+comment1.target=Window(double,\ double)
+comment2.params=
+comment2.target=double\ getWidth()
+comment2.text=\r\n\ Gets\ the\ width\ of\ this\ Window\r\n\ @return\ the\ width\ of\ the\ Window\r\n
+comment3.params=
+comment3.target=double\ getHeight()
+comment3.text=\r\n\ Gets\ the\ height\ of\ this\ Window\r\n\ @return\ the\ height\ of\ the\ Window\r\n
+comment4.params=theWidth\ theHeight
+comment4.target=void\ setDimensions(double,\ double)
+comment4.text=\r\n\ Sets\ the\ dimensions\ of\ this\ Window\r\n\ @param\ theWidth\ Width\ of\ the\ window\r\n\ @param\ theHeight\ Height\ of\ the\ window\r\n
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\r\n\ Calculates\ the\ area\ of\ the\ window\r\n\ @return\ The\ area\ of\ this\ Window\r\n
+comment6.params=
+comment6.target=double\ getCostOfGlaze()
+comment6.text=\r\n\ Calculates\ the\ cost\ in\ $\ that\ is\ required\ to\ cover\ the\ whole\ window.\ \r\n\ @return\ $\ of\ glaze\ required\r\n
+comment7.params=
+comment7.target=double\ glazeNeeded()
+comment7.text=\r\n\ Calculates\ the\ glaze\ needed\ to\ cover\ the\ whole\ Window.\r\n\ @return\ the\ amount\ of\ glaze\ needed\r\n
+numComments=8
