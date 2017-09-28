@@ -14,7 +14,7 @@ public class Hal9000
       else if(personName.length() < 9)
          name = personName;
       else
-         name = personName.substring(0, 7);
+         name = personName.substring(0, 8);
     }
     
     /**
@@ -37,7 +37,7 @@ public class Hal9000
       else if(newName.length() < 9)
          name = newName;
       else
-         name = newName.substring(0, 7);
+         name = newName.substring(0, 8);
     }
     
     /**
