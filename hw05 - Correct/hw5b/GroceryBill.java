@@ -6,7 +6,7 @@ public class GroceryBill
 {
     public double subTotal;
     
-    GroceryBill(){
+    public GroceryBill(){
         subTotal = 0;
     }
     /**
