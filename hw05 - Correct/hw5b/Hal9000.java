@@ -9,7 +9,7 @@ public class Hal9000
     
     Hal9000(String personName)
     {
-      if(personName == "Robert")
+      if(personName.equals("Robert"))
          name = "Bob";
       else if(personName.length() < 9)
          name = personName;
@@ -32,7 +32,7 @@ public class Hal9000
      */
     public void setName(String newName)
     {
-      if(newName == "Robert")
+      if(newName.equals("Robert"))
          name = "Bob";
       else if(newName.length() < 9)
          name = newName;
