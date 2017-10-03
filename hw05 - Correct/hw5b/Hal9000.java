@@ -7,7 +7,11 @@ public class Hal9000
 {
     private String name;
     
-    Hal9000(String personName)
+    /**
+    *Takes in the name of the person.
+    *@param personName Name of the person 
+    */
+    public Hal9000(String personName)
     {
       if(personName.equals("Robert"))
          name = "Bob";
