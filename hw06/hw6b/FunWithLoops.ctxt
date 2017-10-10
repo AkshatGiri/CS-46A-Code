@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FunWithLoops
+comment1.params=value
+comment1.target=int\ sumOdd(int)
+comment2.params=count
+comment2.target=double\ average(int)
+comment3.params=value
+comment3.target=double\ sumSeries(int)
+numComments=4

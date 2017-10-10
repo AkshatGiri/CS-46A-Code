@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ResortRoom
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ResortRoom\ here.\r\n\r\n\ @author\ Akshat\ Giri\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=type\ numberOfOccupants
+comment1.target=ResortRoom(int,\ int)
+comment1.text=\r\n\ \r\n\ @param\ type\ 0\ \=\ Ocean\ Side\ and\ 1\ \=\ Street\ Side\ room\r\n\ @param\ numberOfOccupants\ \r\n
+comment2.params=
+comment2.target=double\ getCost()
+comment2.text=\r\n\ Calculates\ the\ amount\ to\ be\ paid\ for\ the\ rooms.\ \r\n\ @return\ Cost\ of\ the\ room\r\n
+comment3.params=
+comment3.target=int\ getOccupants()
+comment3.text=\r\n\ \r\n\ @return\ Number\ of\ Occupants\r\n
+comment4.params=number
+comment4.target=void\ setOccupants(int)
+comment4.text=\r\n\ \r\n\ @param\ number\ The\ number\ of\ occupants.\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment5.text=\r\n\ \r\n\ @return\ Type\ of\ room\ selected.\ \r\n
+numComments=6

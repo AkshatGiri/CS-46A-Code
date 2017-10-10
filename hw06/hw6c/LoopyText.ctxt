@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LoopyText
+comment0.text=\r\n\ Provides\ some\ methods\ to\ manipulate\ text\r\n\ \r\n
+comment1.params=theText
+comment1.target=LoopyText(java.lang.String)
+comment1.text=\r\n\ Creates\ a\ LoopyText\ object\ with\ the\ given\ text\r\n\ @param\ theText\ the\ text\ for\ this\ LoopyText\r\n
+comment2.params=
+comment2.target=java.lang.String\ getEverySecondCharacter()
+comment2.text=\r\n\ @return\ A\ string\ with\ every\ other\ letter\ from\ the\ text\ provided\r\n
+comment3.params=
+comment3.target=int\ upperCaseCount()
+comment3.text=\r\n\ @return\ The\ cound\ of\ all\ the\ uppercase\ letters\ in\ the\ text\r\n
+comment4.params=
+comment4.target=java.lang.String\ firstLetters()
+comment4.text=\r\n\ @return\ firstLettersw\ a\ String\ containing\ first\ letters\ of\ all\ the\ words\ in\ the\ text\ provided.\r\n
+numComments=5
