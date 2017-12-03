@@ -11,26 +11,7 @@ public class SpecialRectangle extends Rectangle
 
     public SpecialRectangle(int x, int y, int width, int height, String paintColor){
         super(x, y, width, height);
-        if(paintColor.equals("vanilla")){
-            this.paintColor = paintColor;
-            setColor(new Color(255, 255, 248));
-        }
-        else if(paintColor.equals("blue_green")){
-            this.paintColor = paintColor;
-            setColor(new Color(204, 255, 255));
-        }
-        else if(paintColor.equals("purple")){
-            this.paintColor = paintColor;
-            setColor(new Color(159, 0, 197));
-        }
-        else if(paintColor.equals("burnt_orange")){
-            this.paintColor = paintColor;
-            setColor(new Color(227, 117, 00));
-        } 
-        else {
-            this.paintColor = "silver";
-            setColor(new Color(204, 204, 204));
-        }
+        setPaintColor(paintColor);
     }
 
     public String getPaintColor(){
